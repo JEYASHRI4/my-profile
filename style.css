@@ -52,6 +52,17 @@ border-radius: 50px;
     height: 100px;
     border-radius: 50px;
     
+
+}
+#resume{
+    display: flex;
+    justify-content: space-around;
+    background-color: slateblue;
+    font-family: fantasy;
+    font-size: large;
+    height: 50px;
+    border-radius:5px;
+    padding-top:10px;
 }
 .hobbies{
     background-color:orange;
